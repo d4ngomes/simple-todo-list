@@ -1,0 +1,18 @@
+<div class="container main-container">
+  <div class="row col-md-12 mb-4">
+    <form class="row g-3" (ngSubmit)="onSubmit(f)" #f="ngForm" novalidate>
+      <div class="col-auto">
+        <input type="text" name="nome" ngModel #nome="ngModel" maxlength="30" class="form-control form-control-lg" placeholder="Nova tarefa" required>
+      </div>
+      <div class="col-auto">
+        <button type="submit" [disabled]="!f.valid" class="btn btn-secondary btn-lg mb-3">Adicionar</button>
+      </div>
+    </form>
+  </div>
+  <hr>
+  <div class="row text-center">
+    <app-tasks class="col-md-4"></app-tasks>
+    <app-tasks-iniciadas class="col-md-4"></app-tasks-iniciadas>
+    <app-tasks-finalizadas class="col-md-4"></app-tasks-finalizadas>
+  </div>
+</div>
