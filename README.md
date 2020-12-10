@@ -1,11 +1,8 @@
 # Simple To-do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-
 ## Sobre o Projeto
 
-Lista de tarefas feita com Angular (10.2.0).
-RxJs, Bootstrap
+Lista de tarefas feita com Angular e Bootstrap.
 
 ## Como executar o projeto
 
