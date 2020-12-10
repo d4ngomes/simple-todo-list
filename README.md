@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Lista de tarefas feita com Angular e Bootstrap.
+Lista de tarefas em Angular / Bootstrap.
 
 ## Como executar o projeto
 
