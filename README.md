@@ -1,4 +1,5 @@
 # Simple To-do List
+[![NPM](https://img.shields.io/npm/l/angular)](https://github.com/d4ngomes/simple-todo-list/blob/main/LICENSE) 
 
 ## Sobre o Projeto
 
