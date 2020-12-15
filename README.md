@@ -1,11 +1,11 @@
 # Simple To-do List
 [![NPM](https://img.shields.io/npm/l/angular)](https://github.com/d4ngomes/simple-todo-list/blob/main/LICENSE) 
 
-## Sobre o Projeto
+## Sobre
 
 Lista de tarefas em Angular / Bootstrap.
 
-## Como executar o projeto
+## Como executar
 
 ```bash
 # clonar repositório
