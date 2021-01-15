@@ -5,6 +5,10 @@
 
 Lista de tarefas em Angular / Bootstrap.
 
+## Layout
+
+<img src="https://github.com/d4njunior/simple-todo-list/blob/main/src/assets/images/screen.jpg" width="80%">
+
 ## Como executar
 
 ```bash
